@@ -1,0 +1,44 @@
+body {
+    background-size: cover;
+
+}
+
+.heading {
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3 {
+    display: inline;
+
+}
+
+.heading button {
+    float: right;
+    border: 1px solid white;
+
+}
+
+.copy_right_footer {
+    position: fixed;
+    background-color: rgba(255, 166, 0, 0.806);
+    color: white;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+}
+
+.modal-body h2,
+b {
+    font-weight: bolder;
+}
+
+canvas {
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px white;
+}
+
+.modal-body p {
+    font-size: 15px;
+}
